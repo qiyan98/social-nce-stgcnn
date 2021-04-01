@@ -1,0 +1,8 @@
+numpy
+torch==1.6.0
+networkx
+tqdm
+scipy
+pandas
+matplotlib
+sklearn
